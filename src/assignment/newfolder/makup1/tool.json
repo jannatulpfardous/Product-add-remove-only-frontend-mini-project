@@ -1,0 +1,92 @@
+[
+    {
+      "id":1,
+      "category": "INGLOT NAIL ENAMEL",
+      "name": "Nail Enamel",
+      "img": "https://inglotitaly.com/327-thickbox_default/smalto-per-unghie.jpg",
+      "price": 500,
+      "description": "The perfect nail enamel that provides durability, high gloss and a short to medium drying time. "
+    },
+    {
+      "id":2,
+
+      "category": "INGLOT LOOSE POWDER",
+      "name": "Loose Powder",
+      "img": "https://inglotcosmetics.com/media/k2/items/cache/0d77511af28edff9982f6b0b2eb7aca3_L.png",
+      "price": 3200,
+      "description": "Perfect Finish Loose Powder is a multifunctional loose powder that evens out skin tone and texture."
+    },
+    {
+      "id":3,
+
+      "category": "INGLOT CHEEK FACE BLUSH ",
+      "name": "Face Blush",
+      "img": "https://inglotcosmetics.com/media/k2/items/cache/6f09fa9c4773d7976c7311cc7936300c_L.png",
+      "price": 1200,
+      "description": "Classic face blush that adds healthy colour to one's face. Rich formula allows smooth application and buildable colour."
+    },
+    {
+      "id":4,
+
+      "category": "INGLOT STICK BLUSH",
+      "name": "Sunlight Stick Blush",
+      "img": "https://inglotcosmetics.com/media/k2/items/cache/4eadae682909e5571fe2c1a4fc6acd34_L.png",
+      "price": 4000,
+      "description": "Enjoy the feeling of  moisturized, soft skin with visually improved elasticity and pores looking smoother."
+    },
+    {
+      "id":5,
+
+      "category": "INGLOT LIPSTICK",
+      "name": "Classic lipstick",
+      "img": "https://inglotcosmetics.com/media/k2/items/cache/ec9e5d4418cddeb916f54861fa51abb5_L.png",
+      "price": 2000,
+      "description": "Classic lipstick with vitamin E and apricot kernel oil that moisturize and protect the lips. "
+    },
+    {
+      "id":6,
+
+      "category": "INGLOT NAIL ENAMEL",
+      "name": "Nail Enamel",
+      "img": "https://inglotcosmetics.com/media/k2/items/cache/bd9435f235cb4005045f2e6c43e9346a_L.png",
+      "price": 1000,
+      "description": "Long-lasting shine in the diversity of colors for outstanding manicure creations."
+    },
+    {
+      "id":7,
+
+      "category": "INGLOT HIGH GLOSS LIP OIL",
+      "name": "High Gloss Lip Oil",
+      "img": "https://inglotcosmetics.com/media/k2/items/cache/ca518bf183c339c376b4bdc5c275df01_L.png",
+      "price": 1700,
+      "description": "May be used as makeup for stage and theatre. Perfect for face contouring."
+    },
+    {
+      "id":8,
+
+      "category": "INGLOT PRESSED POWDER ROUND",
+      "name": "Pressed Powder Round",
+      "img": "https://inglotitaly.com/327-thickbox_default/smalto-per-unghie.jpg",
+      "price": 3200,
+      "description": "All Freedom System palettes are eco-friendly and reusable. Products may be purchased with the palettes or individually."
+    },
+    {
+      "id":9,
+
+      "category": "INGLOT CANDY BAR EYE SHADOW PALETTE",
+      "name": "Candy Bar Eye Shadow Palette",
+      "img": "https://inglotcosmetics.com/media/k2/items/cache/abf584041f321d5f52601632cbc05493_L.png",
+      "price": 1500,
+      "description": "Reach out for three tones of pressed eyeshadows of revolutionary Freedom System in one."
+    },
+    {
+      "id":10,
+
+      "category": "INGLOT BROW SHAPING GEL",
+      "name": "Brow Shaping Gel",
+      "img": "https://inglotcosmetics.com/media/k2/items/cache/1a956c46450e1847584fd382f605b0a6_L.png",
+      "price": 2700,
+      "description": " perfect for blending the colours, may also be used for cream products."
+    }
+  ]
+  
