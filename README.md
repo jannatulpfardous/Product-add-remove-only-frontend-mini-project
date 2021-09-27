@@ -1,4 +1,4 @@
-#Deploy site / Live project Link
+#Live Project Link:
 (https://awesome-ramanujan-daa442.netlify.app/)
 
 ## INTRO TO MAKEUP ARTISTRY
