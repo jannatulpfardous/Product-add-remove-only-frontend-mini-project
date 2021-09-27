@@ -1,3 +1,6 @@
+#Deploy site / Live project Link
+(https://awesome-ramanujan-daa442.netlify.app/)
+
 ## INTRO TO MAKEUP ARTISTRY
 Inglot Cosmetics is a Polish cosmetics company headquartered in Przemyśl, south-eastern Poland, specializing in the manufacturing of make-up products. It is considered among the most successful makeup companies in the world
 
